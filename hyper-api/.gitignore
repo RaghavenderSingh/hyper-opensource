@@ -3,5 +3,5 @@ node_modules/
 *.swp
 *.swo
 dist/
-
+.DS_Store
 .env
